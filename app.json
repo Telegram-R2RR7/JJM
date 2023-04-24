@@ -10,7 +10,7 @@
         "python3",
         "telegram",
         "bot",
-         ],
+    ],
     "website": "https://t.me/levinachannel",
     "repository": "https://github.com/levina-lab/video-stream",
     "success_url": "https://t.me/dlwrml",
